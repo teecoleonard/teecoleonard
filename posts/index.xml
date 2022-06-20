@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Akbar Yahya</title>
+        <link>http://siakbary.my.id/posts/</link>
+        <description>All Posts | Akbar Yahya</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 09 Nov 2021 06:01:58 &#43;0800</lastBuildDate><atom:link href="http://siakbary.my.id/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Hello</title>
+    <link>http://siakbary.my.id/posts/testpage/</link>
+    <pubDate>Tue, 09 Nov 2021 06:01:58 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://siakbary.my.id/posts/testpage/</guid>
+    <description><![CDATA[Hello Word]]></description>
+</item></channel>
+</rss>
