@@ -1,3 +1,6 @@
 ### Olá 👋<br>
 [Linked](https://www.linkedin.com/in/leonardo-henrique-393383177/)<br><br>
-<a href="https://wakatime.com/@baab75ee-9e49-4e45-bc07-5545607fca61"><img src="https://wakatime.com/badge/user/baab75ee-9e49-4e45-bc07-5545607fca61.svg" alt="Total time coded since Jun 20 2022" /></a>
+
+Aprender e usar meu conhecimento para ajudar as pessoas é uma das minhas motivações.
+
+Atualmente estou estudando Sistemas de Informação na Universidade Descomplica. Gosto de desenvolver soluções de software usando minha criatividade e expertise técnica para criar programas que possam lidar com altos volumes de solicitações e resolver problemas do dia a dia. Após a graduação, meu objetivo é explorar o mundo da programação ou banco de dados e continuar aprendendo todos os dias.
