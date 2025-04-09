@@ -1,5 +1,34 @@
-### Olá 👋<br>
-[Linked](https://www.linkedin.com/in/leonardo-henrique-393383177/)<br><br>
-Aprender e usar meu conhecimento para ajudar as pessoas é uma das minhas motivações.
+### Hello 👋  
+[🔗 LinkedIn](https://www.linkedin.com/in/leonardo-henrique-393383177/)
 
-Atualmente estou estudando Sistemas de Informação na Universidade Descomplica. Gosto de desenvolver soluções de software usando minha criatividade e expertise técnica para criar programas que possam lidar com altos volumes de solicitações e resolver problemas do dia a dia. Após a graduação, meu objetivo é explorar o mundo da programação ou banco de dados e continuar aprendendo todos os dias.
+I'm driven by the desire to learn and use my knowledge to solve real-world problems through technology.
+
+Currently, I work as a **Process Analyst** at **NTT DATA**, and I'm pursuing a degree in **Information Systems**.  
+I have experience developing software solutions focused on performance, organization, and process automation.
+
+🎯 My goal is to grow in the fields of **software development** or **database management**, always aiming for continuous improvement and daily learning.
+
+---
+
+### 🚀 Technologies and Tools I work with:
+
+- **Languages:** JavaScript, TypeScript, Python, Java, Kotlin  
+- **Front-end:** React.js  
+- **Back-end:** Node.js, RESTful APIs  
+- **Mobile:** Android Studio (Java and Kotlin)  
+- **Databases:** MySQL, MongoDB, Firebase  
+- **Tools & Technologies:** Docker, Swagger, Postman, Curl  
+- **Data Analysis:** Pandas (Python), Power BI
+
+---
+
+### 📚 Currently learning:
+
+- Advanced Python automation  
+- API design best practices  
+- Scalable project architecture  
+- Technical English for reading and conversation
+
+---
+
+💡 *Always open to new challenges and growth opportunities.*
