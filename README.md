@@ -1,5 +1,5 @@
 ### Hello 👋  
-[🔗 LinkedIn](https://www.linkedin.com/in/leonardo-henrique-393383177/)
+[🔗 LinkedIn](https://www.linkedin.com/in/leonardohenriquedejesussilva/)
 
 I'm driven by the desire to learn and use my knowledge to solve real-world problems through technology.
 
