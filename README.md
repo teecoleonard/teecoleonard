@@ -1,7 +1,7 @@
 ### Hello 👋  
-[🔗 LinkedIn](https://www.linkedin.com/in/leonardohenriquedejesussilva/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardohenriquedejesussilva/)
 
-[🔗 Portfolio](https://teecoleonard.github.io/react-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://teecoleonard.github.io/react-portfolio/)
 
 I'm driven by the desire to learn and use my knowledge to solve real-world problems through technology.
 
