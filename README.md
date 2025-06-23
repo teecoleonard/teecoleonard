@@ -1,5 +1,6 @@
 ### Hello 👋  
 [🔗 LinkedIn](https://www.linkedin.com/in/leonardohenriquedejesussilva/)
+
 [🔗 Portfolio](https://teecoleonard.github.io/react-portfolio/)
 
 I'm driven by the desire to learn and use my knowledge to solve real-world problems through technology.
