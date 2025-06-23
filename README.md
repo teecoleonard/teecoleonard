@@ -12,11 +12,11 @@ I have experience developing software solutions focused on performance, organiza
 
 ### 🚀 Technologies and Tools I work with:
 
-- **Languages:** JavaScript, TypeScript, Python, Java, Kotlin  
+- **Languages:** JavaScript, TypeScript (Ionic, Angular), Python, Java, Kotlin  
 - **Front-end:** React.js  
 - **Back-end:** Node.js, RESTful APIs  
-- **Mobile:** Android Studio (Java and Kotlin)  
-- **Databases:** MySQL, MongoDB, Firebase  
+- **Mobile:** Android Studio (Java and Kotlin), Ionic
+- **Databases:** MySQL, MongoDB, Firebase
 - **Tools & Technologies:** Docker, Swagger, Postman, Curl  
 - **Data Analysis:** Pandas (Python), Power BI
 
