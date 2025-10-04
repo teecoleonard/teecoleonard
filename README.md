@@ -17,10 +17,11 @@ My goal is to grow in the fields of **software development** or **database manag
 - **Languages:** JavaScript, TypeScript (Ionic, Angular), Python, Java, Kotlin  
 - **Front-end:** React.js  
 - **Back-end:** Node.js, RESTful APIs  
-- **Mobile:** Android Studio (Java and Kotlin), Ionic
+- **Mobile:** Android Studio, Ionic, Flutter
 - **Databases:** MySQL, MongoDB, Firebase
-- **Tools & Technologies:** Docker, Swagger, Postman, Curl  
-- **Data Analysis:** Pandas (Python), Power BI
+- **Tools & Technologies:** Docker, Swagger, Postman, Curl
+- **Automation:** Selenium, Playwright, Cypress
+- **Data Analysis:** Pandas, Power BI, Databricks
 
 ---
 
