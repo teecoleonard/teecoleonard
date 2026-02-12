@@ -14,23 +14,28 @@ My goal is to grow in the fields of **software development** or **database manag
 
 ### Technologies and Tools I work with:
 
-- **Languages:** JavaScript, TypeScript (Ionic, Angular), Python, Java, Kotlin  
-- **Front-end:** React.js  
-- **Back-end:** Node.js, RESTful APIs  
-- **Mobile:** Android Studio, Ionic, Flutter
-- **Databases:** MySQL, MongoDB, Firebase
+- **Languages:** JavaScript, TypeScript, Python, Java, Kotlin, SQL
+- **Front-end:** React.js, Angular, Ionic, Tailwind CSS 
+- **Back-end:** Node.js, NestJS, RESTful APIs, Swagger
+- **Mobile:** Android Studio (Java & Kotlin), Ionic, Flutter
+- **Databases:** MySQL, SQL Server, MongoDB, Firebase, Room (offline mobile cache)
+- **Automation & QA**: Selenium, Playwright, Cypress, API Testing, Web Testing, Mobile Testing
 - **Tools & Technologies:** Docker, Swagger, Postman, Curl
-- **Automation:** Selenium, Playwright, Cypress
-- **Data Analysis:** Pandas, Power BI, Databricks
+- **DevOps & Tools**: Docker, Postman, Curl, Git
+- **Data Analysis:** Pandas, Power BI, Databricks, ETL Processes
+- **Enterprise & Automation:** SAP, RPA, Power Automate
+- **Architecture & Methodologies**: MVVM, DDD, Multi-Tenant Architecture, Scrum/Kanban, API Design, Microservices
 
 ---
 
-### Currently learning:
+### Specialties:
 
-- Advanced Python automation  
-- API design best practices  
-- Scalable project architecture  
-- Technical English for reading and conversation
+- **Test Automation Strategy**
+- **Systems Integration**
+- **Dashboard & Data Visualization**
+- **ERP & Financial Systems Development**
+- **CRM Pipeline Modeling**
+- **Performance & Quality Engineering**
 
 ---
 
