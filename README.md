@@ -14,16 +14,16 @@ My goal is to grow in the fields of **software development** or **database manag
 
 ### Technologies and Tools I work with:
 
-- **Languages:** JavaScript, TypeScript, Python, Java, Kotlin, SQL
-- **Front-end:** React.js, Angular, Ionic, Tailwind CSS 
-- **Back-end:** Node.js, NestJS, RESTful APIs, Swagger
+- **Languages:** JavaScript, TypeScript, Python, Java, Kotlin, SQL, Apex, LWC
+- **Front-end:** React.js, Angular, Ionic, Tailwind CSS, shadcn
+- **Back-end:** Node.js, NestJS, RESTful APIs, Swagger, Spring Boot (Java)
 - **Mobile:** Android Studio (Java & Kotlin), Ionic, Flutter
 - **Databases:** MySQL, SQL Server, MongoDB, Firebase, Room (offline mobile cache)
 - **Automation & QA**: Selenium, Playwright, Cypress, API Testing, Web Testing, Mobile Testing
 - **Tools & Technologies:** Docker, Swagger, Postman, Curl
 - **DevOps & Tools**: Docker, Postman, Curl, Git
 - **Data Analysis:** Pandas, Power BI, Databricks, ETL Processes
-- **Enterprise & Automation:** SAP, RPA, Power Automate
+- **Enterprise & Automation:** SAP, RPA, Power Automate, Spring Ecosystem (Spring Boot, Spring Data, Spring Security)
 - **Architecture & Methodologies**: MVVM, DDD, Multi-Tenant Architecture, Scrum/Kanban, API Design, Microservices
 
 ---
